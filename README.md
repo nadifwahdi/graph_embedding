@@ -15,6 +15,7 @@ A graph $G$ is an ordered triple $(V(G),E(G),\psi_{G})$ consisting of nonempty s
 $$
 H=(V(H),E(H),\psi_{H})
 $$
+
 where
 
 $$
