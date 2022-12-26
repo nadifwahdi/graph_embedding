@@ -10,7 +10,9 @@ A graph $G$ is an ordered triple $(V(G),E(G),\psi_{G})$ consisting of nonempty s
 
 *Example 1*
 
-<center><img src="assets/graph.png" alt="Graph H" width="200"/></center>
+<center>
+<img src="assets/graph.png" alt="Graph H" width="200">
+</center>
 
 $$
 H=(V(H),E(H),\psi_{H})
