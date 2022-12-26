@@ -21,6 +21,7 @@ where
 $$
 V(H) = \{u,v,w,x,y\} 
 $$
+
 $$
 E(H) = \{a,b,c,d,e,f,g,h\}
 $$
@@ -30,6 +31,7 @@ and $\psi_{H}$ is defined by
 $$
 \psi_{H}(a) = uv,\psi_{H}(b) = uu,\psi_{H}(c) = vw,\psi_{H}(d) = wx
 $$
+
 $$
 \psi_{H}(e) = vx,\psi_{H}(f) = wx,\psi_{H}(g) = ux,\psi_{H}(h) = xy
 $$
